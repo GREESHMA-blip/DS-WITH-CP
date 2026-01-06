@@ -11,9 +11,9 @@ class Node
     }
     
     // 
-    public void getData(){
+    public void getRef(){
         
-        System.out.println(data);
+        System.out.println(Next);
         
     }
 }
